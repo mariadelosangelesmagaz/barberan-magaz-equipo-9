@@ -1,3 +1,9 @@
+
 muñeco eterno
 
+<<<<<<< HEAD
 por favor no te vayas.
+=======
+
+no te vayas nunca.
+>>>>>>> 8f1e7831112ab218b32c0dded41de72c0d11d709
